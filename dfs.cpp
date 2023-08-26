@@ -48,7 +48,6 @@ int main(){
     int edges;
 
     cin>>vertices>>edges;
-
     vector<int> Graph[vertices];
 
     for(int i=0;i<edges;i++){
